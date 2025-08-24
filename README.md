@@ -9,5 +9,4 @@ An open-source database for an Life-Cycle Assesement (LCA) for flexible and prin
 > 
 
 
-> **Contact:**  
-> lca.repository.iapp@outlook.com
+**Contact:** lca.repository.iapp@outlook.com
