@@ -13,9 +13,10 @@ An open-source database for an Life-Cycle Assesement (LCA) for flexible and prin
 **General Disclaimer**<br>
 #einladung zum mitmachen
 The aim of this database is to gather and document LCA Data for common fabrication processes and chemicals in the field of microelectronics, with a focus on organic and printed electronics.<br>
-While we aim to bridge a gap of missing Flows in common databases, a license for one of them (e.g. ecoinvent https://ecoinvent.org/) is still required to properly conduct a Life-Cycle Analysis to gain access to data for common chemicals and background processes, as well as impact assessment methods, required for calculations.
-#kurzes Statement über Datenbanken vs software (was wird required)
-#Vermerk auf Paper, aber kein generelles Tutorial über Softwarenutzung -> link zu openLCA Doc
+While we aim to bridge a gap of missing Flows in common databases, a license for one of them (e.g. ecoinvent https://ecoinvent.org/) as well as any LCA software (e.g. openLCA https://www.openlca.org/) is still required to properly conduct a Life-Cycle Analysis to gain access to data for common chemicals and background processes, as well as impact assessment methods, required for calculations.
+The data for Processes, Machines and Materials found in this database is modeled after our Laboratory in IAPP. It can give you a point to start your own LCA, but we advise you to modify existing Processes to your actual fabrication schemes. These include but are not limited to actual machine power and run time or ink consumption.
+#Tommy We invite you to contribute to the databse yourself
+
 
 **Structure of the LCA Database**<br>
 The LCA Database contains a structure of grouped LCA tables containing Fabrication and System Processes and Flows connected to the Process of Record.
@@ -26,7 +27,8 @@ You can find:<br>
  → Machines and corresponding use times<br>
 *A full overview over the contents of the tables is found in the overview_tables.txt*<br>
 
-#neue Namen werden von uns angepasst ans PoR Namensschema verteilt
+For any Processes you want to contribute to this Database, we will assign a new label and name corresponding to the existing scheme of the Process of Record.
+
 
 **Add tables to your own LCA tool**<br>
 The input and output Flow data from this LCA database has to be manually copied into preferred LCA tool (e.g. openLCA)<br>
