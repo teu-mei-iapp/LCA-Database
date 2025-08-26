@@ -1,4 +1,4 @@
-# LCA-Database
+# LCA-Database <img width="100" alt="BayflexLogo" src="https://github.com/user-attachments/assets/35cc3edb-4195-45e8-9562-680798594199" />
 
 An open-source database for Life-Cycle Assessment (LCA) and Process of Record (PoR) of fabrication systems in flexible and printed electronics.
 This database is designed to evolve continuously through contributions from the research community.
@@ -60,7 +60,4 @@ The input and output Flow data from this LCA database has to be manually copied 
 
 
 # vorgefertigte Prozesse von hier gerne anpassen an eigene 'richtige' Verbrauchswerte
-
-
-
 
