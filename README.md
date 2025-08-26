@@ -48,7 +48,7 @@ The input and output Flow data from this LCA database has to be manually copied 
 
 **Add a specific electricity value for your country**<br>
 -	Create a new Process and a quantitative reference Flow, which should be 'Energy'.<br>
--	Add carbon dioxide emission, fossil as an additional output Flow with the representative GWP value ('number [g CO2-Eq.]') for electricity in your country.<br>
+-	Add carbon dioxide emission, fossil as an additional output Flow with the representative GWP value ('number [g CO2-Eq.]') for 1 kWh in your country.<br>
 <img width="436" height="270" alt="grafik" src="https://github.com/user-attachments/assets/3bcc888c-dab0-4c75-8451-d5f16caf3a8b" />
 
 
