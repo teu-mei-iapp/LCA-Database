@@ -32,7 +32,8 @@ You can find:<br>
 The input and output Flow data from this LCA database has to be manually copied into preferred LCA tool (e.g. openLCA)<br>
 -	Create a new Process and a quantitative Reference Flow. Make sure to select the correct reference Flow Property as given in the Github-table (e.g. Mass, Duration, Number of items).<br>
 -	Copy the input and output Flows from the Github-tables with the correct amount and unit each.<br>
-#richtiges Bild ohne Category
+<img width="577" height="349" alt="grafik" src="https://github.com/user-attachments/assets/0b466db9-5cf7-44b2-aa01-1dedc3613fd3" />
+
 
 -	Make sure to correctly define the Reference Flow (e.g. Process for 1h of machine time or 1 item).<br>
  → Some Processes require input Flows, that are also defined in the Github-tables and are not found in usual databases. These are marked with an asterisk * in the tables.<br>
@@ -43,10 +44,15 @@ The input and output Flow data from this LCA database has to be manually copied 
 **Add a blank GWP value for a new material**<br>
 -	Create a new Process and a quantitative reference Flow, which should be 'Mass'.<br>
 -	Add carbon dioxide emission, fossil as an additional output Flow with the representative GWP value ('number [kg CO2-Eq.]') for 1kg of the new material.<br>
-#richtiges Bild ohne Category
+<img width="574" height="271" alt="grafik" src="https://github.com/user-attachments/assets/8e6639fb-b9b0-4a47-bd78-302dc7dd2f35" />
+
+**Add a specific electricity value for your country**<br>
+-	Create a new Process and a quantitative reference Flow, which should be 'Energy'.<br>
+-	Add carbon dioxide emission, fossil as an additional output Flow with the representative GWP value ('number [g CO2-Eq.]') for electricity in your country.<br>
+<img width="436" height="270" alt="grafik" src="https://github.com/user-attachments/assets/3bcc888c-dab0-4c75-8451-d5f16caf3a8b" />
 
 
-# Stromwerte nach Land (wie aus eigenem Prozess?)
+
 # vorgefertigte Prozesse von hier gerne anpassen an eigene 'richtige' Verbrauchswerte
 
 
