@@ -59,7 +59,7 @@ The input and output Flow data from this LCA database has to be manually copied 
 
 
 
-# vorgefertigte Prozesse von hier gerne anpassen an eigene 'richtige' Verbrauchswerte
+vorgefertigte Prozesse von hier gerne anpassen an eigene 'richtige' Verbrauchswerte
 
 
 
@@ -67,7 +67,8 @@ The input and output Flow data from this LCA database has to be manually copied 
 
 
 
-
+<br>
+<br>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/35cc3edb-4195-45e8-9562-680798594199" alt="BayflexLogo" width="200"/>
+  <img src="https://github.com/user-attachments/assets/35cc3edb-4195-45e8-9562-680798594199" alt="BayflexLogo" width="300"/>
 </p>
