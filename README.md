@@ -10,13 +10,13 @@ An open-source database for an Life-Cycle Assesement (LCA) for flexible and prin
 
 **Contact:** lca.repository.iapp@outlook.com
 
-**General Disclaimer**
-The aim of this database is to gather and document LCA Data for common fabrication processes and chemicals in the field of microelectronics, with a focus on organic and printed electronics.
+**General Disclaimer**<br>
+The aim of this database is to gather and document LCA Data for common fabrication processes and chemicals in the field of microelectronics, with a focus on organic and printed electronics.<br>
 While we aim to bridge a gap of missing Flows in common databases, a license for one of them is still required to properly conduct a Life-Cycle Analysis to gain access to data for common chemicals and background processes, as well as impact assessment methods, required for calculations.
 
-**Structure of the LCA Database**
+**Structure of the LCA Database**<br>
 The LCA Database contains a structure of grouped LCA tables containing Fabrication and System Processes and Flows connected to the Process of Record.
-You can find:
+You can find:<br>
  → Full Processes for listed Product and Fabrication System Processes
  → Specialized Fabrication Processes (e.g. plasma or parylene processes)
  → Specialized Chemicals used in Fabrication
@@ -24,6 +24,7 @@ You can find:
 *A full overview over the contents of the tables is found in the overview_tables.txt*
 
 **Add tables to your own LCA tool**
+
 The input and output Flow data from this LCA database has to be manually copied into preferred LCA tool (e.g. openLCA)
 -	Create a new Process and a quantitative Reference Flow. Make sure to select the correct reference Flow Property as given in the Github-table (e.g. Mass, Duration, Number of items).
 -	Copy the input and output Flows from the Github-tables with the correct amount and unit each.
