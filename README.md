@@ -32,7 +32,7 @@ You can find:<br>
 The input and output Flow data from this LCA database has to be manually copied into preferred LCA tool (e.g. openLCA)<br>
 -	Create a new Process and a quantitative Reference Flow. Make sure to select the correct reference Flow Property as given in the Github-table (e.g. Mass, Duration, Number of items).<br>
 -	Copy the input and output Flows from the Github-tables with the correct amount and unit each.<br>
- <img width="850" height="366" alt="grafik" src="https://github.com/user-attachments/assets/891c3fee-70e6-4712-9e30-4cfa162a5aa9" />
+#richtiges Bild ohne Category
 
 -	Make sure to correctly define the Reference Flow (e.g. Process for 1h of machine time or 1 item).<br>
  → Some Processes require input Flows, that are also defined in the Github-tables and are not found in usual databases. These are marked with an asterisk * in the tables.<br>
@@ -43,8 +43,11 @@ The input and output Flow data from this LCA database has to be manually copied 
 **Add a blank GWP value for a new material**<br>
 -	Create a new Process and a quantitative reference Flow, which should be 'Mass'.<br>
 -	Add carbon dioxide emission, fossil as an additional output Flow with the representative GWP value ('number [kg CO2-Eq.]') for 1kg of the new material.<br>
-<img width="701" height="309" alt="grafik" src="https://github.com/user-attachments/assets/746211aa-425b-4dff-9f3b-c038f782ef34" />
+#richtiges Bild ohne Category
 
+
+# Stromwerte nach Land (wie aus eigenem Prozess?)
+# vorgefertigte Prozesse von hier gerne anpassen an eigene 'richtige' Verbrauchswerte
 
 
 
