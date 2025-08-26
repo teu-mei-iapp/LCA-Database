@@ -25,6 +25,8 @@ You can find:<br>
  → Machines and corresponding use times<br>
 *A full overview over the contents of the tables is found in the overview_tables.txt*<br>
 
+#neue Namen werden von uns angepasst ans PoR Namensschema verteilt
+
 **Add tables to your own LCA tool**<br>
 The input and output Flow data from this LCA database has to be manually copied into preferred LCA tool (e.g. openLCA)<br>
 -	Create a new Process and a quantitative Reference Flow. Make sure to select the correct reference Flow Property as given in the Github-table (e.g. Mass, Duration, Number of items).<br>
