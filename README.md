@@ -4,7 +4,7 @@ An open-source database for Life-Cycle Assessment (LCA) and Process of Record (P
 This database is designed to evolve continuously through contributions from the research community.
 
 **Notice:** All scientific publications making use of this repository should cite the associated paper.
-Further information on the PoR and the LCA - including definitions, general structure, and objectives - can be found therin.
+Further information on the PoR and the LCA - including definitions, general structure, and objectives - can be found therein.
 > L. Teuere, T. Meier, H. Kleemann, et al. <br>
 > *Life-Cycle Assessment of Printed Electronic Components – Case Study for Organic Electrochemical Transistors*.  
 > _Advanced Electronic Materials_, accepted (2025).
