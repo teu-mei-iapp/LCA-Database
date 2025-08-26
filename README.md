@@ -35,7 +35,7 @@ The input and output Flow data from this LCA database has to be manually copied 
 
 *If you can prove ownership of a valid ecoinvent license, you can request the directly exported JSON files for the database or specific processes.*<br>
 
-**Add a blank GWP value for a new material<br>
+**Add a blank GWP value for a new material**<br>
 -	Create a new Process and a quantitative reference Flow, which should be 'Mass'.<br>
 -	Add carbon dioxide emission, fossil as an additional output Flow with the representative GWP value ('number [kg CO2-Eq.]') for 1kg of the new material.<br>
 <img width="701" height="309" alt="grafik" src="https://github.com/user-attachments/assets/746211aa-425b-4dff-9f3b-c038f782ef34" />
