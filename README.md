@@ -8,5 +8,39 @@ An open-source database for an Life-Cycle Assesement (LCA) for flexible and prin
 > _Advanced Electronic Materials_, accepted (2025).
 > 
 
-
 **Contact:** lca.repository.iapp@outlook.com
+
+**General Disclaimer**
+The aim of this database is to gather and document LCA Data for common fabrication processes and chemicals in the field of microelectronics, with a focus on organic and printed electronics.
+While we aim to bridge a gap of missing Flows in common databases, a license for one of them is still required to properly conduct a Life-Cycle Analysis to gain access to data for common chemicals and background processes, as well as impact assessment methods, required for calculations.
+
+**Structure of the LCA Database**
+The LCA Database contains a structure of grouped LCA tables containing Fabrication and System Processes and Flows connected to the Process of Record.
+You can find:
+ → Full Processes for listed Product and Fabrication System Processes
+ → Specialized Fabrication Processes (e.g. plasma or parylene processes)
+ → Specialized Chemicals used in Fabrication
+ → Machines and corresponding use times
+*A full overview over the contents of the tables is found in the overview_tables.txt*
+
+**Add tables to your own LCA tool**
+The input and output Flow data from this LCA database has to be manually copied into preferred LCA tool (e.g. openLCA)
+-	Create a new Process and a quantitative Reference Flow. Make sure to select the correct reference Flow Property as given in the Github-table (e.g. Mass, Duration, Number of items).
+-	Copy the input and output Flows from the Github-tables with the correct amount and unit each.
+ <img width="850" height="366" alt="grafik" src="https://github.com/user-attachments/assets/891c3fee-70e6-4712-9e30-4cfa162a5aa9" />
+
+-	Make sure to correctly define the Reference Flow (e.g. Process for 1h of machine time or 1 item).
+ → Some Processes require input Flows, that are also defined in the Github-tables and are not found in usual databases. These are marked with an asterisk * in the tables.
+*Optional*: add Process and Flow descriptions to complete your database entry. The Processes are fully workable with Input and Output Flows set correctly.
+
+*If you can prove ownership of a valid ecoinvent license, you can request the directly exported JSON files for the database or specific processes.*
+
+**Add a blank GWP value for a new material
+-	Create a new Process and a quantitative reference Flow, which should be 'Mass'.
+-	Add carbon dioxide emission, fossil as an additional output Flow with the representative GWP value ('number [kg CO2-Eq.]') for 1kg of the new material.
+<img width="701" height="309" alt="grafik" src="https://github.com/user-attachments/assets/746211aa-425b-4dff-9f3b-c038f782ef34" />
+
+
+
+
+
