@@ -71,5 +71,5 @@ vorgefertigte Prozesse von hier gerne anpassen an eigene 'richtige' Verbrauchswe
 <br>
 <h1></h1>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/35cc3edb-4195-45e8-9562-680798594199" alt="BayflexLogo" width="300"/>
+  <img src="https://github.com/user-attachments/assets/35cc3edb-4195-45e8-9562-680798594199" alt="BayflexLogo" width="250"/>
 </p>
