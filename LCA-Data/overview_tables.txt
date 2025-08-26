@@ -1,0 +1,74 @@
+#Maschinen sind in Tabs in einem Exceldoc -> Vermerk auch ins Readme
+
+Materials
+    Lithography of Metals
+        AZ MIF 726
+	AZ1518 resist
+	Chromium Etchant
+	Gold Etchant
+	PGMEA 
+    Lithography of Semiconductors
+        Oscor Resist
+	    Oscor Developer
+	    Oscor Resist
+	    Oscor Stripper
+        Parylene Coating
+	    2% M90 solution
+	    M90 
+	    Parylene-C Precursor
+        PEDOT:PSS
+	    DBSA
+	    GOPS
+	    PEDOT:PSS (1:2.5; 1.3%wt)
+	    PEDOT:PSS 5%EG
+    Printing Inks
+        Dycotec Ag ink (screen)
+	Novacentrix Ag ink (inkjet)
+    Solid-State Electrolyte 
+	[EMIM][EtSO4] Ionic liquid
+	SSE ink (inkjet)
+	SSE ink (Lithography)
+Machines
+    Fabrication
+        Plasma Etching Processes
+	    Argon+Oxygen Etching
+	    Oxygen Etching
+	    Parylene Etching
+	    Pump Down and Venting
+        High-speed Homogenizer
+        Hotplate
+        Inkjet-Printer
+	Mask Aligner
+	Maskless Aligner
+        Oven
+	Parylene Coating
+	Screen-Printer (with and without pump)
+	Sonoplotter
+	Spincoater
+	Ultrasonic Bath
+    Measurement
+        SMUs
+	Autolab
+Fabrication Processes
+    OECT Fabrication
+        A – Electrode Patterning
+            System A1/1: Lithography of Au Electrodes 
+            System A1/2: Lithography of Ag Electrodes 
+            System A2: Inkjet Printing of Ag Electrodes
+            System A3: Screen Printing of Ag Electrodes 
+            System A4: Microplotting of Ag Electrodes 
+        B – Semiconductor Patterning
+            System B1: Lithography of PEDOT:PSS
+            System B2: Inkjet Printing of PEDOT:PSS
+            System B3: Screen Printing of PEDOT:PSS
+            System B4: Microplotting of PEDOT:PSS
+            System B5: Parylene Peel-off of PEDOT:PSS
+	    Parylene Peel-off
+        C – Electrolyte Patterning
+	    System C1: Lithography of a Solid-State-Electrolyte
+	    System C2: Inkjet Printing of a Solid-State-Electrolyte     
+Silane Process
+    Silane Adhesion Step - Acetic Acid
+    Silane Adhesion Step - IPA
+    Silane-A174
+Electricity per Country
