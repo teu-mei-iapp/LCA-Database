@@ -11,7 +11,6 @@ An open-source database for an Life-Cycle Assesement (LCA) for flexible and prin
 **Contact:** lca.repository.iapp@outlook.com
 
 **General Disclaimer**<br>
-#einladung zum mitmachen
 The aim of this database is to gather and document LCA Data for common fabrication processes and chemicals in the field of microelectronics, with a focus on organic and printed electronics.<br>
 While we aim to bridge a gap of missing Flows in common databases, a license for one of them (e.g. ecoinvent https://ecoinvent.org/) as well as any LCA software (e.g. openLCA https://www.openlca.org/) is still required to properly conduct a Life-Cycle Analysis to gain access to data for common chemicals and background processes, as well as impact assessment methods, required for calculations.
 The data for Processes, Machines and Materials found in this database is modeled after our Laboratory in IAPP. It can give you a point to start your own LCA, but we advise you to modify existing Processes to your actual fabrication schemes. These include but are not limited to actual machine power and run time or ink consumption.
