@@ -1,8 +1,9 @@
 # LCA-Database
 
-An open-source database for an Life-Cycle Assesement (LCA) for flexible and printed electronics.
+An open-source database for Life-Cycle Assessment (LCA) and Process of Record (PoR) for fabrication systems in flexible and printed electronics.
 
 **Notice:** All scientific publications making use of this repository should cite the associated paper.
+Further information on the PoR and the LCA - including definitions, general structure, and objectives - can be found therin.
 > L. Teuere, T. Meier, H. Kleemann, et al. <br>
 > *Life-Cycle Assessment of Printed Electronic Components – Case Study for Organic Electrochemical Transistors*.  
 > _Advanced Electronic Materials_, accepted (2025).
@@ -15,8 +16,10 @@ An open-source database for an Life-Cycle Assesement (LCA) for flexible and prin
 
 **General Disclaimer**<br>
 The aim of this database is to gather and document LCA Data for common fabrication processes and chemicals in the field of microelectronics, with a focus on organic and printed electronics.<br>
-While we aim to bridge a gap of missing Flows in common databases, a license for one of them (e.g. ecoinvent https://ecoinvent.org/) as well as any LCA software (e.g. openLCA https://www.openlca.org/) is still required to properly conduct a Life-Cycle Analysis to gain access to data for common chemicals and background processes, as well as impact assessment methods, required for calculations.
-The data for Processes, Machines and Materials found in this database is modeled after our Laboratory in IAPP. It can give you a point to start your own LCA, but we advise you to modify existing Processes to your actual fabrication schemes. These include but are not limited to actual machine power and run time or ink consumption.
+While we aim to bridge a gap of missing Flows in common databases, a license for one of them (e.g. ecoinvent https://ecoinvent.org/) as well as any LCA software (e.g. openLCA https://www.openlca.org/) is still required to properly conduct a Life-Cycle Analysis to gain access to data for common chemicals and background processes, as well as impact assessment methods, required for calculations. The data for the Processes, Machines, and Materials in this database is modeled after our Laboratory in IAPP. It can give you a point to start your own LCA, but we advise you to modify existing Processes to your actual fabrication schemes. These include but are not limited to actual machine power and run time or ink consumption.
+
+
+
 #Tommy We invite you to contribute to the databse yourself
 
 
