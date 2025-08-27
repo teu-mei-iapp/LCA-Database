@@ -16,13 +16,14 @@ Further information on the PoR and the LCA - including definitions, general stru
 
 **General Disclaimer**<br>
 The aim of this database is to gather and document LCA data for common fabrication processes and chemicals in the field of microelectronics, with a focus on organic and printed electronics. While we aim to bridge a gap of missing Flows in common databases, a license for one of them (e.g. ecoinvent https://ecoinvent.org) as well as any LCA software (e.g. openLCA https://www.openlca.org) is still required to properly conduct a Life-Cycle Analysis to gain access to data for common chemicals and background processes, as well as impact assessment methods, required for calculations. The data for the Processes, Machines, and Materials in this database can give you a point to start your own LCA, but we advise you to modify existing Processes to your actual fabrication schemes. These include, but are not limited to, actual machine power and run times, as well as material/chemical consumption.
-
 <br>
 
 **Community Contributions**<br>
-We invite the research community to contribute their own fabrication processes and LCA data to this database.
-For small data entries, please open up a new discussion in the _Contributions_ category of the _Discussions_ forum of this repository. Please submit your LCA data in accordance with the pinned template in the _Contributions_ category.<br>
-Larger datasets can be integrated into the database by submitting a pull request. This allows contributors to directly suggest additions, which will then be reviewed and merged into the main repository.
+We invite the research community to contribute their own fabrication processes and LCA data to this database, thereby establishing this repository as a comprehensive reference resource for a wide range of fabrication methods in the field of flexible and printed electronics.
+For small data entries, please open up a new discussion in the _Contributions_ category of the _Discussions_ forum. Please submit your LCA data in accordance with the pinned template in the _Contributions_ category.<br>
+Larger datasets can be integrated into the database by submitting a pull request. This allows contributors to directly suggest additions in specific data files, which will then be reviewed and merged into the main repository.<br>
+
+In addition to the LCA dataset, we encourage the community to share their own specific device fabrication scheme in the form of a detailed Process of Record (PoR) to further enhance the accessibility of knowledge within our research field. Please follow the general structure of a PoR (see associated paper and PoR template form in the repository) and use the _Discussions_ category to submit your PoR document.
 
 **Structure of the LCA Database**<br>
 The LCA Database contains a structure of grouped LCA tables (.xlxs files) containing Fabrication and System Processes and Flows based on their corresponding Process of Record.
