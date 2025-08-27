@@ -16,20 +16,21 @@ Further information on the PoR and the LCA - including definitions, general stru
 <br>
 
 **General Disclaimer**<br>
-The aim of this database is to gather and document LCA Data for common fabrication processes and chemicals in the field of microelectronics, with a focus on organic and printed electronics. While we aim to bridge a gap of missing Flows in common databases, a license for one of them (e.g. ecoinvent https://ecoinvent.org) as well as any LCA software (e.g. openLCA https://www.openlca.org) is still required to properly conduct a Life-Cycle Analysis to gain access to data for common chemicals and background processes, as well as impact assessment methods, required for calculations. The data for the Processes, Machines, and Materials in this database can give you a point to start your own LCA, but we advise you to modify existing Processes to your actual fabrication schemes. These include, but are not limited to, actual machine power and run times, as well as ink consumption.
+The aim of this database is to gather and document LCA Data for common fabrication processes and chemicals in the field of microelectronics, with a focus on organic and printed electronics. While we aim to bridge a gap of missing Flows in common databases, a license for one of them (e.g. ecoinvent https://ecoinvent.org) as well as any LCA software (e.g. openLCA https://www.openlca.org) is still required to properly conduct a Life-Cycle Analysis to gain access to data for common chemicals and background processes, as well as impact assessment methods, required for calculations. The data for the Processes, Machines, and Materials in this database can give you a point to start your own LCA, but we advise you to modify existing Processes to your actual fabrication schemes. These include, but are not limited to, actual machine power and run times, as well as material/chemical consumption.
 
 **Community Contributions**<br>
 We invite you to contribute to the databse yourself
 
 
 **Structure of the LCA Database**<br>
-The LCA Database contains a structure of grouped LCA tables containing Fabrication and System Processes and Flows connected to the Process of Record.
+The LCA Database contains a structure of grouped LCA tables (.xlxs files) containing Fabrication and System Processes and Flows based to the Process of Record.
 You can find:<br>
  → Full Processes for listed Product and Fabrication System Processes<br>
  → Specialized Fabrication Processes (e.g. plasma or parylene processes)<br>
  → Specialized Chemicals used in Fabrication<br>
  → Machines and corresponding use times<br>
-*A full overview over the contents of the tables is found in the overview_tables.txt*<br>
+*A full overview of the contents of all tables is found in the overview_tables.txt*<br>
+** Each .xlsl file contains dedicated tabs for each process, material, or machine type.
 
 For any Processes you want to contribute to this Database, we will assign a new label and name corresponding to the existing scheme of the Process of Record.
 
