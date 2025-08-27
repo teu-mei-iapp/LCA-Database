@@ -1,4 +1,4 @@
-#Maschinen sind in Tabs in einem Exceldoc -> Vermerk auch ins Readme
+Notice: Each Excel file contains dedicated tabs for each process, material, or machine.
 
 Materials
     Lithography of Metals
@@ -71,4 +71,5 @@ Silane Process
     Silane Adhesion Step - Acetic Acid
     Silane Adhesion Step - IPA
     Silane-A174
+
 Electricity per Country
