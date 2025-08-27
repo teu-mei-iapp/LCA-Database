@@ -9,7 +9,7 @@ Further information on the PoR and the LCA - including definitions, general stru
 > *Life-Cycle Assessment of Printed Electronic Components – Case Study for Organic Electrochemical Transistors*.  
 > _Advanced Electronic Materials_, accepted (2025).
 > 
-
+gh
 **Contact:** lca.repository.iapp@outlook.com
 
 <br>
