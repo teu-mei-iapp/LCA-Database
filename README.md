@@ -23,7 +23,7 @@ We invite the research community to contribute their own fabrication processes a
 For small LCA data entries, please open up a new discussion in the _Contributions_ category of the _Discussions_ forum. Please submit your LCA data in accordance with the pinned template in the _Contributions_ category.<br>
 Larger datasets can be integrated into the database by submitting a pull request. This allows contributors to directly suggest additions in specific data files, which will then be reviewed and merged into the main repository.<br>
 
-In addition to the LCA dataset, we encourage the community to share their own specific device fabrication scheme in the form of a detailed Process of Record (PoR) to further enhance the accessibility of knowledge within our research field. Please follow the general structure of a PoR (see associated paper and PoR template form in the repository) and use the _Discussions_ category to submit your PoR document.
+In addition to the LCA dataset, we encourage the community to share their own specific device fabrication scheme in the form of a detailed Process of Record (PoR) to further enhance the accessibility of knowledge within our research field. Please follow the general structure of a PoR (see associated paper and PoR template form in the repository) and use the _Contributions_ category to submit your PoR document.
 
 **Structure of the LCA Database**<br>
 The LCA Database contains a structure of grouped LCA tables (.xlxs files) containing Fabrication and System Processes and Flows based on their corresponding Process of Record.
