@@ -10,7 +10,7 @@ Further information on the PoR and the LCA - including definitions, general stru
 > _Advanced Electronic Materials_, accepted (2025).<br>
 > DOI: TBA
 
-**Contact:**  Use the repository "Discussions" forum or lca.repository.iapp@outlook.com
+**Contact:**  Use the repository "Discussions" forum or via lca.repository.iapp@outlook.com
 
 <br>
 <br>
