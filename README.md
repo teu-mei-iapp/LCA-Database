@@ -23,7 +23,7 @@ The aim of this database is to gather and document LCA Data for common fabricati
 **Community Contributions**<br>
 We invite the research community to contribute their own fabrication processes and LCA data to this database.
 
-For small data entries please open up a new discussion in the "Contributions" category of the "Discussions" forum of this repository (github.com/teu-mei-iapp/LCA-Database/discussions/categories/contributions). Please submit your LCA data in accordance with the the pinned template in the "Contributions" category.
+For small data entries please open up a new discussion in the "Contributions" category of the "Discussions" forum of this repository. Please submit your LCA data in accordance with the the pinned template in the "Contributions" category.
 
 Larger datasets can be integrated into the database by submitting a pull request. This allows contributors to directly suggest additions, which will then be reviewed and merged into the main repository.
 
