@@ -22,16 +22,13 @@ The aim of this database is to gather and document LCA Data for common fabricati
 
 **Community Contributions**<br>
 We invite the research community to contribute their own fabrication processes and LCA data to this database.
-
-For small data entries please open up a new discussion in the "Contributions" category of the "Discussions" forum of this repository. Please submit your LCA data in accordance with the the pinned template in the "Contributions" category.
-
+For small data entries, please open up a new discussion in the _Contributions_ category of the _Discussions_ forum of this repository. Please submit your LCA data in accordance with the pinned template in the _Contributions_ category.
 Larger datasets can be integrated into the database by submitting a pull request. This allows contributors to directly suggest additions, which will then be reviewed and merged into the main repository.
 
 <br>
-<br>
 
 **Structure of the LCA Database**<br>
-The LCA Database contains a structure of grouped LCA tables (.xlxs files) containing Fabrication and System Processes and Flows based to their correspondinh Process of Record.
+The LCA Database contains a structure of grouped LCA tables (.xlxs files) containing Fabrication and System Processes and Flows based on their corresponding Process of Record.
 You can find:<br>
  → Full Processes for listed Product and Fabrication System Processes<br>
  → Specialized Fabrication Processes (e.g. plasma or parylene processes)<br>
