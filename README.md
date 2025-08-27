@@ -1,10 +1,9 @@
 <h1>LCA-Database</h1>
 
-An open-source database for Life-Cycle Assessment (LCA) and Process of Record (PoR) of fabrication systems in flexible and printed electronics.
-This database is designed to evolve continuously through contributions from the research community. The _Discussions_ forum of the repository provides a dedicated space for announcements, updates, data contributions, posing questions, and enabling scientific exchange within the community.
+An open-source database for Life-Cycle Assessment (LCA) and a modular Process of Record (PoR) for a variety of fabrication systems in flexible and printed electronics. This database is designed to evolve continuously through contributions from the research community. The _Discussions_ forum of the repository provides a dedicated space for announcements, updates, data contributions, posing questions, and enabling scientific exchange within the community.
 
 **Notice:** All scientific publications making use of this repository should cite the associated paper.
-Further information on the PoR and the LCA - including definitions, general structure, and objectives - can be found therein.
+Further information on the modular PoR and the LCA - including definitions, general structure, objectives, and hands-on examples - can be found therein.
 > L. Teuere, T. Meier, H. Kleemann, et al. <br>
 > *Life-Cycle Assessment of Printed Electronic Components – Case Study for Organic Electrochemical Transistors*.  
 > _Advanced Electronic Materials_, accepted (2025).<br>
