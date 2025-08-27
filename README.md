@@ -21,7 +21,7 @@ The aim of this database is to gather and document LCA data for common fabricati
 
 **Community Contributions**<br>
 We invite the research community to contribute their own fabrication processes and LCA data to this database.
-For small data entries, please open up a new discussion in the _Contributions_ category of the _Discussions_ forum of this repository. Please submit your LCA data in accordance with the pinned template in the _Contributions_ category.
+For small data entries, please open up a new discussion in the _Contributions_ category of the _Discussions_ forum of this repository. Please submit your LCA data in accordance with the pinned template in the _Contributions_ category.<br>
 Larger datasets can be integrated into the database by submitting a pull request. This allows contributors to directly suggest additions, which will then be reviewed and merged into the main repository.
 
 **Structure of the LCA Database**<br>
