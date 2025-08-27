@@ -24,8 +24,6 @@ We invite the research community to contribute their own fabrication processes a
 For small data entries, please open up a new discussion in the _Contributions_ category of the _Discussions_ forum of this repository. Please submit your LCA data in accordance with the pinned template in the _Contributions_ category.
 Larger datasets can be integrated into the database by submitting a pull request. This allows contributors to directly suggest additions, which will then be reviewed and merged into the main repository.
 
-<br>
-
 **Structure of the LCA Database**<br>
 The LCA Database contains a structure of grouped LCA tables (.xlxs files) containing Fabrication and System Processes and Flows based on their corresponding Process of Record.
 You can find:<br>
