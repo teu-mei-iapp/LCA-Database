@@ -20,7 +20,7 @@ The aim of this database is to gather and document LCA data for common fabricati
 
 **Community Contributions**<br>
 We invite the research community to contribute their own fabrication processes and LCA data to this database, thereby establishing this repository as a comprehensive reference resource for a wide range of fabrication methods in the field of flexible and printed electronics.
-For small data entries, please open up a new discussion in the _Contributions_ category of the _Discussions_ forum. Please submit your LCA data in accordance with the pinned template in the _Contributions_ category.<br>
+For small LCA data entries, please open up a new discussion in the _Contributions_ category of the _Discussions_ forum. Please submit your LCA data in accordance with the pinned template in the _Contributions_ category.<br>
 Larger datasets can be integrated into the database by submitting a pull request. This allows contributors to directly suggest additions in specific data files, which will then be reviewed and merged into the main repository.<br>
 
 In addition to the LCA dataset, we encourage the community to share their own specific device fabrication scheme in the form of a detailed Process of Record (PoR) to further enhance the accessibility of knowledge within our research field. Please follow the general structure of a PoR (see associated paper and PoR template form in the repository) and use the _Discussions_ category to submit your PoR document.
