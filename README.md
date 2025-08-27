@@ -7,7 +7,7 @@ This database is designed to evolve continuously through contributions from the 
 Further information on the PoR and the LCA - including definitions, general structure, and objectives - can be found therein.
 > L. Teuere, T. Meier, H. Kleemann, et al. <br>
 > *Life-Cycle Assessment of Printed Electronic Components – Case Study for Organic Electrochemical Transistors*.  
-> _Advanced Electronic Materials_, accepted (2025).
+> _Advanced Electronic Materials_, accepted (2025).<br>
 > DOI: TBA
 
 **Contact:** lca.repository.iapp@outlook.com
