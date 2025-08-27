@@ -19,7 +19,12 @@ Further information on the PoR and the LCA - including definitions, general stru
 The aim of this database is to gather and document LCA Data for common fabrication processes and chemicals in the field of microelectronics, with a focus on organic and printed electronics. While we aim to bridge a gap of missing Flows in common databases, a license for one of them (e.g. ecoinvent https://ecoinvent.org) as well as any LCA software (e.g. openLCA https://www.openlca.org) is still required to properly conduct a Life-Cycle Analysis to gain access to data for common chemicals and background processes, as well as impact assessment methods, required for calculations. The data for the Processes, Machines, and Materials in this database can give you a point to start your own LCA, but we advise you to modify existing Processes to your actual fabrication schemes. These include, but are not limited to, actual machine power and run times, as well as material/chemical consumption.
 
 **Community Contributions**<br>
-We invite you to contribute to the databse yourself
+We invite the research community to contribute to the database with their processes and LCA-Data.
+For small data entries please open up a new discussion in the "Contributions" category of the "Discussions" forum of this repository (github.com/teu-mei-iapp/LCA-Database/discussions/categories/contributions).
+Follow the pinned template in the "Contributions" category.
+
+Larger datasets can me merged with the database using a pull request.
+<br>
 
 
 **Structure of the LCA Database**<br>
