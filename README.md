@@ -7,7 +7,7 @@ Further information on the modular PoR and the LCA - including definitions, gene
 > L. Teuere, T. Meier, H. Kleemann, et al. <br>
 > *Life-Cycle Assessment of Printed Electronic Components – Case Study for Organic Electrochemical Transistors*.  
 > _Advanced Electronic Materials_, accepted (2025).<br>
-> DOI: TBA
+> DOI: https://doi.org/10.1002/aelm.202500372
 
 **Contact:**  Use the _Discussions_ forum or via lca.repository.iapp@outlook.com
 <br>
