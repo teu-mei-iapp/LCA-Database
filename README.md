@@ -6,7 +6,7 @@ An open-source database for Life-Cycle Assessment (LCA) and a modular Process of
 Further information on the modular PoR and the LCA - including definitions, general structure, objectives, and hands-on examples - can be found therein.
 > L. Teuere, T. Meier, H. Kleemann, et al. <br>
 > *Life-Cycle Assessment of Printed Electronic Components – Case Study for Organic Electrochemical Transistors*.  
-> _Advanced Electronic Materials_, accepted (2025).<br>
+> Adv. Electron. Mater. (2025): e00372.<br>
 > DOI: https://doi.org/10.1002/aelm.202500372
 
 **Contact:**  Use the _Discussions_ forum or via lca.repository.iapp@outlook.com
