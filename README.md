@@ -32,6 +32,7 @@ You can find:<br>
  → Specialized Fabrication Processes (e.g. plasma or parylene processes)<br>
  → Specialized Chemicals used in Fabrication<br>
  → Machines and corresponding use times<br>
+ → Substrates<br>
 *A full overview of the contents of all tables is found in the overview_tables.txt*<br>
 ** Each .xlsl file contains dedicated tabs for each process, material, or machine type.
 
