@@ -1,54 +1,54 @@
 Notice: Each Excel file contains dedicated tabs for each process, material, or machine.
 
 Materials
-    Lithography Metals
+    Lithography of Metals
         AZ MIF 726
-	    AZ1518 resist
-	    Chromium Etchant
-	    Gold Etchant
-	    PGMEA 
-    Lithography Oscor (for Semiconductors)
+	AZ1518 resist
+	Chromium Etchant
+	Gold Etchant
+	PGMEA 
+    Lithography of Semiconductors
         Oscor Resist
 	    Oscor Developer
 	    Oscor Resist
 	    Oscor Stripper
-    Parylene Coating
+        Parylene Coating
 	    2% M90 solution
 	    M90 
 	    Parylene-C Precursor
-    PEDOT:PSS
+        PEDOT:PSS
 	    DBSA
 	    GOPS
 	    PEDOT:PSS (1:2.5; 1.3%wt)
 	    PEDOT:PSS 5%EG
     Printing Inks
         Dycotec Ag ink (screen)
-	    Novacentrix Ag ink (inkjet)
+	Novacentrix Ag ink (inkjet)
     Solid-State Electrolyte 
-	    [EMIM][EtSO4] Ionic liquid
-	    SSE ink (inkjet)
-	    SSE ink (Lithography)
+	[EMIM][EtSO4] Ionic liquid
+	SSE ink (inkjet)
+	SSE ink (Lithography)
 Machines
     Fabrication
-        Plasma Cleaner
-	        Argon+Oxygen Etching
-	        Oxygen Etching
-	        Parylene Etching
-	        Pump Down and Venting
+        Plasma Etching Processes
+	    Argon+Oxygen Etching
+	    Oxygen Etching
+	    Parylene Etching
+	    Pump Down and Venting
         High-speed Homogenizer
         Hotplate
         Inkjet-Printer
-	    Mask Aligner
-	    Maskless Aligner
+	Mask Aligner
+	Maskless Aligner
         Oven
-	    Parylene Coating
-	    Screen-Printer (with and without pump)
-	    Sonoplotter
-	    Spincoater
-	    Ultrasonic Bath
+	Parylene Coating
+	Screen-Printer (with and without pump)
+	Sonoplotter
+	Spincoater
+	Ultrasonic Bath
     Measurement
         SMUs
-	    Autolab
+	Autolab
 Fabrication Processes
     OECT Fabrication
         A – Electrode Patterning
@@ -63,13 +63,25 @@ Fabrication Processes
             System B3: Screen Printing of PEDOT:PSS
             System B4: Microplotting of PEDOT:PSS
             System B5: Parylene Peel-off of PEDOT:PSS
-	        Parylene Peel-off
+	    Parylene Peel-off
         C – Electrolyte Patterning
-	        System C1: Lithography of a Solid-State-Electrolyte
-	        System C2: Inkjet Printing of a Solid-State-Electrolyte     
+	    System C1: Lithography of a Solid-State-Electrolyte
+	    System C2: Inkjet Printing of a Solid-State-Electrolyte     
 Silane Process
     Silane Adhesion Step - Acetic Acid
     Silane Adhesion Step - IPA
     Silane-A174
+Substrates
+    PLEX
+        PLEX Substrate
+        Polymer Solution for PLEX
+        cleaned scaffold
+        uncleaned scaffold
+        LAP solution
+        LAP
+        2,4,6-Trimethylbenzoyl chloride
+        pentaerythritol tetrakis(3-mercaptopropionate)
+        3-Mercaptopropionic acid (3-MPA)
+        Poly(ethylene glycol) diacrylate (PEGDA)
+        Poly(ethylene glycol) (PEG)
 Electricity per Country
-
